@@ -3,14 +3,16 @@
 This game includes both visual and functional features that make it more engaging and beginner-friendly for those learning Python GUI and game development.
 
 Table of Contents
-- Features 
-- Technologies Used 
-- Installation  
-- Usage  
-- Contributing  
-- License
+
+- [Features](#features)  
+- [Technologies Used](#technologies-used)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Contributing](#contributing)  
+- [License](#license)
 
 Features
+
 - Single-player mode (Player vs Computer)
 - Real-time scoreboard
 - Paddle control using keyboard keys:
@@ -21,6 +23,7 @@ Features
 - Visually enhanced UI using `Tkinter` and images
 
 Technologies Used
+
 - Python
 - Tkinter (GUI)
 - Pygame (game engine)
