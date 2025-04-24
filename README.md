@@ -2,7 +2,7 @@
 # A classic Ping Pong (Table Tennis) game recreated using Python, Tkinter, and Pygame.
 This game includes both visual and functional features that make it more engaging and beginner-friendly for those learning Python GUI and game development.
 
-Table of Contents
+# Table of Contents
 
 - [Features](#features)  
 - [Technologies Used](#technologies-used)  
@@ -11,7 +11,7 @@ Table of Contents
 - [Contributing](#contributing)  
 - [License](#license)
 
-Features
+# Features
 
 - Single-player mode (Player vs Computer)
 - Real-time scoreboard
@@ -22,7 +22,7 @@ Features
 - Game level and splash screen
 - Visually enhanced UI using `Tkinter` and images
 
-Technologies Used
+# Technologies Used
 
 - Python
 - Tkinter (GUI)
@@ -30,7 +30,7 @@ Technologies Used
 - PIL (Image handling, optional)
 - Custom images for background and icons
 
-Installation
+# Installation
 
 To run this project locally:
 
